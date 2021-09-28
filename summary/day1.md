@@ -1,6 +1,6 @@
 ## 1일차
 #### 장고 프로젝트 파일 구조
-- manage.py : 장고 커맨드라인 유틸리디
+- manage.py : 장고 커맨드라인 유틸리티
 - djangoPractice/ : 프로젝트 디렉토리
 - djangoPractice/&#95;&#95;init&#95;&#95;.py : 파이썬 **패키지 선언 파일**
 - djangoPractice/settings.py : 프로젝트 **환경설정**
