@@ -11,4 +11,5 @@ class ModelName(models.Model):
   date_field = models.DateField()
 ```
 
-위 코드와 같이 새로운 모델을 생성할수 있다 생성할수 있는 필드 종류에 대해 알고 싶으면 [여기](https://docs.djangoproject.com/en/3.2/ref/models/fields/#django.db.models.Field)를 읽어보자
+위 코드와 같이 새로운 모델을 생성할수 있다,
+생성할수 있는 필드 종류에 대해 알고 싶으면 [여기](https://docs.djangoproject.com/en/3.2/ref/models/fields/#django.db.models.Field)를 읽어보자
