@@ -17,20 +17,19 @@ python manage.py runserver
 #### URL 지정 관련 함수
 **include()**
 
-```
+```python
 include(module, namespace=None)
 include(pattern_list)
 include((pattern_list, app_namespace), namespace=None)
 ```
 
 **path()**
-```
+```python
 path(route, view, kwargs=None, name=None)
 ```
 
 **URL 지정 예시**
-```
-mysite/urls.py
+```python
 from django.contrib import admin
 from django.urls import include, path
 
